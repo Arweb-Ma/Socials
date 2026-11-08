@@ -1,0 +1,722 @@
+{
+  "campaign": "Mois 1 — 16 nov. au 12 déc. 2026",
+  "timezone": "Africa/Casablanca",
+  "posts": [
+    {
+      "id": "01",
+      "slug": "arweb-en-6-points",
+      "date": "2026-11-16T13:00:00",
+      "pillar": "Méthode",
+      "format": "carousel",
+      "slides": [
+        {
+          "t": "cover",
+          "over": "Bienvenue",
+          "title": "Arweb, agence web au Maroc : ce qu'on fait, et comment on le fait",
+          "sub": "6 points, sans jargon"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "Créer",
+          "body": "Des sites vitrines et e-commerce rapides, pensés pour le mobile et pour générer des demandes."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "Rendre visible",
+          "body": "SEO technique, contenus et visibilité locale sur Google, adaptés au marché marocain."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "Mesurer",
+          "body": "Appels, formulaires, clics WhatsApp : nous suivons les actions qui comptent, pas seulement les visites."
+        },
+        {
+          "t": "point",
+          "n": "4",
+          "title": "Vos accès restent à vous",
+          "body": "Domaine, hébergement, site et outils de mesure : tout est à votre nom et documenté."
+        },
+        {
+          "t": "point",
+          "n": "5",
+          "title": "Des recommandations expliquées",
+          "body": "Chaque priorité est reliée à un objectif ou à une donnée. Pas de « première page garantie »."
+        },
+        {
+          "t": "cta",
+          "title": "Chaque semaine, des conseils concrets pour votre présence en ligne",
+          "action": "Suivez @arweb.ma"
+        }
+      ],
+      "caption": "Arweb en quelques mots, avant de commencer.\n\nNous aidons les entreprises marocaines à avoir un site qui travaille pour elles : être trouvées sur Google, inspirer confiance, et transformer les visites en appels ou en messages.\n\nTrois métiers coordonnés : création de sites, SEO et mesure. Et un principe simple : votre domaine, votre hébergement et vos données restent à votre nom.\n\nCe que vous trouverez ici : des conseils pratiques, des checklists à enregistrer et des idées reçues corrigées. Pas de promesses de classement, pas de jargon.\n\nUne question sur votre site ? Écrivez-nous en message privé.",
+      "hashtags": [
+        "#agencewebmaroc",
+        "#creationsiteweb",
+        "#seo",
+        "#pmemaroc",
+        "#maroc"
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "test-du-telephone",
+      "date": "2026-11-17T13:00:00",
+      "pillar": "Diagnostic",
+      "format": "single",
+      "slides": [
+        {
+          "t": "checklist",
+          "over": "Le test du téléphone",
+          "title": "Ouvrez votre site sur votre téléphone. Trois questions :",
+          "items": [
+            "Le texte se lit-il sans zoomer ?",
+            "Le bouton d'appel ou WhatsApp est-il visible sans défiler ?",
+            "La page s'affiche-t-elle en moins de 3 secondes ?"
+          ],
+          "foot": "Un seul « non » mérite d'être corrigé : c'est sur mobile que la plupart des clients vous découvrent."
+        }
+      ],
+      "caption": "Le test le plus simple pour juger votre site : votre propre téléphone.\n\nPrenez 30 secondes, ouvrez votre site comme le ferait un client qui ne vous connaît pas, et posez-vous ces trois questions.\n\nSi le texte est trop petit, si le numéro est caché en bas de page ou si la page met du temps à apparaître, le visiteur repart. Souvent vers un concurrent.\n\nAstuce : faites le test en 4G, pas sur le Wi-Fi du bureau.\n\nEnregistrez ce post et refaites le test après chaque modification de votre site.",
+      "hashtags": [
+        "#siteweb",
+        "#mobile",
+        "#pmemaroc",
+        "#agencewebmaroc",
+        "#conseilsweb"
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "7-signes-refonte",
+      "date": "2026-11-19T13:00:00",
+      "pillar": "Diagnostic",
+      "format": "carousel",
+      "slides": [
+        {
+          "t": "cover",
+          "over": "Diagnostic",
+          "title": "7 signes qu'un site a besoin d'une refonte",
+          "sub": "Combien en cochez-vous ?"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "Il ne représente plus votre activité",
+          "body": "Services, prix ou équipe ont changé, le site raconte encore l'entreprise d'il y a trois ans."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "L'action attendue n'est pas claire",
+          "body": "Appeler, écrire sur WhatsApp, demander un devis : le visiteur doit le comprendre en quelques secondes."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "Il est pénible sur mobile",
+          "body": "Texte minuscule, menus qui débordent, formulaires impossibles à remplir avec un pouce."
+        },
+        {
+          "t": "point",
+          "n": "4",
+          "title": "Il est lent ou instable",
+          "body": "Les pages mettent du temps à s'afficher ou bougent pendant le chargement."
+        },
+        {
+          "t": "point",
+          "n": "5",
+          "title": "Personne n'ose le mettre à jour",
+          "body": "Chaque modification passe par un prestataire, alors on ne modifie plus rien."
+        },
+        {
+          "t": "point",
+          "n": "6",
+          "title": "Vous ignorez combien de contacts il apporte",
+          "body": "Aucun suivi des appels, formulaires ou clics WhatsApp : impossible de juger ce qu'il rapporte."
+        },
+        {
+          "t": "point",
+          "n": "7",
+          "title": "Vous n'êtes pas sûr d'avoir les accès",
+          "body": "Domaine, hébergement, administration : si tout est au nom d'un ancien prestataire, c'est un risque."
+        },
+        {
+          "t": "cta",
+          "title": "Un ou deux signes : on corrige. Trois ou plus : parlons refonte.",
+          "action": "Audit gratuit · audit.arweb.ma"
+        }
+      ],
+      "caption": "Votre site a-t-il besoin d'une refonte, ou de quelques corrections ?\n\nTout ne justifie pas de repartir de zéro. Un problème isolé se corrige. Mais quand plusieurs de ces signes s'accumulent, les corrections successives coûtent souvent plus cher qu'une base saine.\n\nLe point le plus sous-estimé : le numéro 7. Beaucoup d'entreprises découvrent le jour d'un problème que leur domaine est au nom d'un ancien prestataire.\n\nPour un premier diagnostic technique gratuit de votre site : audit.arweb.ma (lien en bio). Et l'article complet, avec 10 signes, sur notre blog.",
+      "hashtags": [
+        "#refontesiteweb",
+        "#siteweb",
+        "#agencewebmaroc",
+        "#pmemaroc",
+        "#creationsiteweb"
+      ]
+    },
+    {
+      "id": "04",
+      "slug": "mythe-site-termine",
+      "date": "2026-11-21T11:00:00",
+      "pillar": "Diagnostic",
+      "format": "myth",
+      "slides": [
+        {
+          "t": "myth",
+          "myth": "« Un site, une fois en ligne, c'est terminé. »",
+          "reality": "Un site vit : horaires, services et prix changent, les composants se mettent à jour, Google évolue. Un site figé perd vite en crédibilité."
+        }
+      ],
+      "caption": "Idée reçue n°1 : le site est un projet qu'on livre une fois pour toutes.\n\nEn réalité, un site est plutôt comme une vitrine de magasin. Si les horaires affichés sont faux ou si la dernière actualité date de 2021, le client se demande si l'entreprise est encore active.\n\nPas besoin d'y passer des heures : une vérification par trimestre suffit souvent. Infos pratiques, prix, photos, mises à jour de sécurité, formulaire qui fonctionne.\n\nPartagez à quelqu'un dont le site n'a pas bougé depuis longtemps.",
+      "hashtags": [
+        "#siteweb",
+        "#ideerecue",
+        "#pmemaroc",
+        "#agencewebmaroc",
+        "#maintenance"
+      ]
+    },
+    {
+      "id": "05",
+      "slug": "fiche-google-6-elements",
+      "date": "2026-11-23T13:00:00",
+      "pillar": "Visibilité locale",
+      "format": "carousel",
+      "slides": [
+        {
+          "t": "cover",
+          "over": "Visibilité locale",
+          "title": "Fiche Google : 6 éléments souvent laissés vides",
+          "sub": "À vérifier sur votre fiche d'établissement"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "Les catégories secondaires",
+          "body": "Une catégorie principale, puis celles qui décrivent vos autres activités réelles."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "Les horaires spéciaux",
+          "body": "Jours fériés, Ramadan, Aïd : mettez-les à jour avant, pas après les appels perdus."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "Les services",
+          "body": "Listez ce que vous faites avec les mots que vos clients utilisent."
+        },
+        {
+          "t": "point",
+          "n": "4",
+          "title": "La description",
+          "body": "Ce que vous faites, pour qui, et où. Des phrases, pas une liste de mots-clés."
+        },
+        {
+          "t": "point",
+          "n": "5",
+          "title": "Des photos récentes",
+          "body": "Façade, intérieur, équipe au travail : aidez le client à vous reconnaître en arrivant."
+        },
+        {
+          "t": "point",
+          "n": "6",
+          "title": "Le bon lien",
+          "body": "Site ou prise de rendez-vous : envoyez vers la page utile, pas seulement vers l'accueil."
+        },
+        {
+          "t": "cta",
+          "title": "Votre fiche est souvent vue avant votre site",
+          "action": "Enregistrez ce post"
+        }
+      ],
+      "caption": "Quand quelqu'un cherche votre activité dans votre ville, c'est souvent votre fiche Google qui apparaît en premier. Avant votre site.\n\nPourtant, beaucoup de fiches s'arrêtent au nom, à l'adresse et au téléphone.\n\nLe point le plus utile au Maroc : les horaires spéciaux. Ramadan, Aïd, jours fériés : une fiche à jour évite des déplacements inutiles et des avis négatifs.\n\nEnregistrez ce post, ouvrez votre fiche, et cochez les six points un par un.",
+      "hashtags": [
+        "#googlebusinessprofile",
+        "#referencementlocal",
+        "#pmemaroc",
+        "#agencewebmaroc",
+        "#googlemaps"
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "demander-avis-google",
+      "date": "2026-11-24T13:00:00",
+      "pillar": "Visibilité locale",
+      "format": "single",
+      "slides": [
+        {
+          "t": "message",
+          "over": "Modèle à copier",
+          "title": "Demander un avis Google sans être lourd",
+          "msg": "Bonjour [Prénom], merci encore pour votre confiance. Si vous êtes satisfait de [service], un avis sur Google nous aiderait beaucoup : [lien vers votre fiche]. Bonne journée !",
+          "tips": [
+            "Envoyez-le juste après la prestation",
+            "Mettez le lien direct vers la fiche",
+            "Aucune contrepartie : Google l'interdit"
+          ]
+        }
+      ],
+      "caption": "Les clients satisfaits laissent rarement un avis d'eux-mêmes. Il suffit souvent de demander, au bon moment et simplement.\n\nVoici un message WhatsApp prêt à copier. Remplacez les crochets, gardez-le court.\n\nTrois règles :\n1. Envoyez-le quand l'expérience est fraîche, le jour même ou le lendemain.\n2. Donnez le lien direct vers votre fiche : chaque clic en moins compte.\n3. N'offrez rien en échange. Les avis contre réduction ou cadeau sont interdits par les règles de Google.\n\nEnregistrez ce post pour l'avoir sous la main.",
+      "hashtags": [
+        "#avisgoogle",
+        "#googlebusinessprofile",
+        "#pmemaroc",
+        "#whatsappbusiness",
+        "#agencewebmaroc"
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "cliniques-ce-que-cherchent-patients",
+      "date": "2026-11-26T13:00:00",
+      "pillar": "Visibilité locale",
+      "format": "carousel",
+      "slides": [
+        {
+          "t": "cover",
+          "over": "Cliniques et cabinets",
+          "title": "Ce que les patients cherchent sur votre site avant d'appeler",
+          "sub": "6 informations qui évitent des appels perdus"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "Les spécialités et actes",
+          "body": "Clairement listés, avec les mots qu'utilisent les patients, pas seulement les termes médicaux."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "Les horaires et les urgences",
+          "body": "Et quoi faire en dehors des heures d'ouverture."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "L'adresse et l'accès",
+          "body": "Carte, parking, étage, accès pour les personnes à mobilité réduite."
+        },
+        {
+          "t": "point",
+          "n": "4",
+          "title": "La prise de rendez-vous",
+          "body": "Téléphone, WhatsApp ou formulaire : un moyen évident, visible sur chaque page."
+        },
+        {
+          "t": "point",
+          "n": "5",
+          "title": "Les conventions acceptées",
+          "body": "AMO, mutuelles, assurances : la question revient à presque chaque appel."
+        },
+        {
+          "t": "point",
+          "n": "6",
+          "title": "L'équipe",
+          "body": "Noms, spécialités et parcours des praticiens, présentés de façon factuelle."
+        },
+        {
+          "t": "cta",
+          "title": "Chaque réponse absente devient un appel au secrétariat, ou un patient qui appelle ailleurs.",
+          "action": "Audit gratuit · audit.arweb.ma"
+        }
+      ],
+      "caption": "Avant d'appeler une clinique ou un cabinet, un patient vérifie presque toujours la même chose : est-ce que vous traitez mon problème, quand, où, et est-ce que ma couverture est acceptée.\n\nQuand ces réponses manquent sur le site, deux choses arrivent : le secrétariat répond aux mêmes questions toute la journée, et une partie des patients va voir ailleurs.\n\nUn site de santé n'a pas besoin d'être spectaculaire. Il doit être clair, à jour et factuel.\n\nGestionnaires de cliniques : un premier diagnostic gratuit de votre site sur audit.arweb.ma (lien en bio).",
+      "hashtags": [
+        "#cliniquemaroc",
+        "#santemaroc",
+        "#siteweb",
+        "#agencewebmaroc",
+        "#referencementlocal"
+      ]
+    },
+    {
+      "id": "08",
+      "slug": "mythe-reseaux-suffisent",
+      "date": "2026-11-28T11:00:00",
+      "pillar": "Visibilité locale",
+      "format": "myth",
+      "slides": [
+        {
+          "t": "myth",
+          "myth": "« Une page Facebook ou Instagram suffit, pas besoin de site. »",
+          "reality": "Les réseaux sont utiles, mais vous n'en maîtrisez ni les règles ni la portée. Quand on vous cherche sur Google, ce sont votre site et votre fiche qui répondent."
+        }
+      ],
+      "caption": "Oui, on vous le dit sur Instagram.\n\nLes réseaux sociaux sont parfaits pour montrer votre travail et garder le contact. Mais ils ont deux limites : la plateforme décide qui voit vos publications, et un compte peut être restreint du jour au lendemain.\n\nSurtout, quand un client tape votre activité et votre ville sur Google, ce n'est généralement pas votre profil Instagram qui sort en premier.\n\nLe bon réflexe : un site simple qui vous appartient, une fiche Google à jour, et les réseaux pour faire vivre le tout.\n\nNotre article « Site web ou Instagram : où investir en premier ? » est sur arweb.ma.",
+      "hashtags": [
+        "#siteweb",
+        "#ideerecue",
+        "#pmemaroc",
+        "#agencewebmaroc",
+        "#marketingdigital"
+      ]
+    },
+    {
+      "id": "09",
+      "slug": "seo-sans-jargon",
+      "date": "2026-11-30T13:00:00",
+      "pillar": "SEO",
+      "format": "carousel",
+      "slides": [
+        {
+          "t": "cover",
+          "over": "SEO",
+          "title": "Le SEO expliqué sans jargon",
+          "sub": "Trois étapes, dans cet ordre"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "Être trouvé",
+          "body": "Google doit pouvoir accéder à vos pages et les indexer. Sans ça, le reste ne sert à rien."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "Être compris",
+          "body": "Chaque page répond à une demande précise : un service, une ville, une question de client."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "Être choisi",
+          "body": "Un titre clair, des informations fiables, des avis : c'est ce qui fait cliquer sur vous plutôt qu'à côté."
+        },
+        {
+          "t": "note",
+          "title": "Méfiez-vous de la « première page garantie »",
+          "body": "Personne ne contrôle le classement de Google. Un prestataire sérieux s'engage sur un travail, pas sur une position."
+        },
+        {
+          "t": "cta",
+          "title": "Le SEO, c'est un site qui répond mieux que les autres aux recherches de vos clients",
+          "action": "Enregistrez ce post"
+        }
+      ],
+      "caption": "Le SEO paraît compliqué parce qu'on en parle souvent avec des sigles. Le principe tient pourtant en trois étapes.\n\n1. Être trouvé : Google doit pouvoir lire vos pages.\n2. Être compris : chaque page doit répondre clairement à une recherche.\n3. Être choisi : votre résultat doit donner envie de cliquer.\n\nLa plupart des problèmes que nous voyons sur des sites de PME bloquent dès l'étape 1 ou 2. Inutile de travailler la 3 tant qu'elles ne sont pas réglées.\n\nEt si on vous promet la première page en 30 jours, demandez comment. Personne ne peut le garantir.",
+      "hashtags": [
+        "#seo",
+        "#referencementnaturel",
+        "#agenceseomaroc",
+        "#pmemaroc",
+        "#siteweb"
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "titre-de-page-avant-apres",
+      "date": "2026-12-01T13:00:00",
+      "pillar": "SEO",
+      "format": "single",
+      "slides": [
+        {
+          "t": "serp",
+          "over": "Avant / après",
+          "title": "Le titre de page : la ligne qu'un client lit en premier",
+          "before": {
+            "title": "Accueil",
+            "url": "www.exemple.ma"
+          },
+          "after": {
+            "title": "Clinique dentaire à Fès — implants et orthodontie",
+            "url": "www.exemple.ma"
+          },
+          "foot": "Exemple fictif. Google peut réécrire un titre, mais il part souvent du vôtre."
+        }
+      ],
+      "caption": "Une ligne, un impact direct : le titre de page.\n\nC'est le texte bleu affiché dans les résultats de Google. Sur beaucoup de sites, il se résume à « Accueil » ou au nom de l'entreprise. Le client ne sait pas ce que vous faites, ni où.\n\nUn bon titre dit l'essentiel : l'activité, la ville, et ce qui vous distingue. Une page, un titre, un sujet.\n\nL'exemple est fictif, mais le cas est fréquent. Vérifiez le vôtre : tapez « site:votredomaine.ma » dans Google et regardez ce qui s'affiche.",
+      "hashtags": [
+        "#seo",
+        "#referencementnaturel",
+        "#siteweb",
+        "#agenceseomaroc",
+        "#conseilsweb"
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "site-absent-google",
+      "date": "2026-12-03T13:00:00",
+      "pillar": "SEO",
+      "format": "carousel",
+      "slides": [
+        {
+          "t": "cover",
+          "over": "SEO technique",
+          "title": "Pourquoi votre site n'apparaît pas sur Google",
+          "sub": "Les causes les plus fréquentes, dans l'ordre"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "D'abord, vérifiez",
+          "body": "Dans Search Console, inspectez l'URL : indexée ou non ? La réponse change tout le diagnostic."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "La page est bloquée",
+          "body": "Une balise « noindex » ou un robots.txt trop strict, souvent oubliés après la mise en ligne."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "Google ne la trouve pas",
+          "body": "Pas de sitemap, aucun lien interne qui mène à la page."
+        },
+        {
+          "t": "point",
+          "n": "4",
+          "title": "Elle désigne une autre adresse",
+          "body": "Une URL canonique vers un autre domaine. Nous l'avons vécu en passant de arweb.ca à arweb.ma."
+        },
+        {
+          "t": "point",
+          "n": "5",
+          "title": "Elle est trop mince",
+          "body": "Trois lignes de texte n'apportent pas assez de réponse pour mériter une place."
+        },
+        {
+          "t": "point",
+          "n": "6",
+          "title": "Indexée mais invisible",
+          "body": "Alors ce n'est plus de l'indexation : c'est une question de pertinence et de concurrence."
+        },
+        {
+          "t": "cta",
+          "title": "Robots, canonical, sitemap : notre audit gratuit les vérifie",
+          "action": "Audit gratuit · audit.arweb.ma"
+        }
+      ],
+      "caption": "« Mon site n'apparaît pas sur Google. » C'est la question qu'on nous pose le plus.\n\nAvant de chercher des solutions, il faut distinguer deux problèmes très différents : une page que Google n'a pas indexée, et une page indexée mais mal classée. Search Console donne la réponse en une minute.\n\nLe point 4, nous l'avons vécu sur notre propre site : après le changement de domaine, nos URL canoniques pointaient encore vers l'ancien. Corrigé depuis, mais c'est un bon rappel : ça arrive à tout le monde.\n\nVérifiez votre site gratuitement sur audit.arweb.ma (lien en bio).",
+      "hashtags": [
+        "#seo",
+        "#searchconsole",
+        "#indexation",
+        "#agenceseomaroc",
+        "#siteweb"
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "mythe-mots-cles-partout",
+      "date": "2026-12-05T11:00:00",
+      "pillar": "SEO",
+      "format": "myth",
+      "slides": [
+        {
+          "t": "myth",
+          "myth": "« Le SEO, c'est mettre des mots-clés partout. »",
+          "reality": "Répéter un mot-clé rend un texte illisible et n'aide pas. Google cherche la page qui répond le mieux à la question posée."
+        }
+      ],
+      "caption": "« Agence web Casablanca, meilleure agence web Casablanca, agence web pas chère Casablanca… »\n\nVous avez déjà lu ce genre de texte. Il ne convainc ni les clients, ni Google.\n\nLes mots-clés restent utiles pour savoir comment vos clients cherchent. Mais ensuite, il s'agit d'écrire une page qui répond vraiment : ce que vous faites, pour qui, comment, à quel prix, avec quelles preuves.\n\nUne page utile se lit naturellement. Si vous devez forcer un mot dans une phrase, c'est qu'il n'a rien à y faire.",
+      "hashtags": [
+        "#seo",
+        "#ideerecue",
+        "#redactionweb",
+        "#agenceseomaroc",
+        "#pmemaroc"
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "notre-grille-audit-5-axes",
+      "date": "2026-12-07T13:00:00",
+      "pillar": "Méthode",
+      "format": "carousel",
+      "slides": [
+        {
+          "t": "cover",
+          "over": "Notre méthode",
+          "title": "Comment nous auditons un site : 5 axes",
+          "sub": "Ce que nous regardons, et pourquoi"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "Technique",
+          "body": "Indexation, redirections, sécurité, vitesse : la base sans laquelle le reste ne tient pas."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "Mobile",
+          "body": "Lisibilité, boutons, formulaires, testés sur un vrai téléphone."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "SEO",
+          "body": "Structure des pages, titres, intentions de recherche et concurrence réelle."
+        },
+        {
+          "t": "point",
+          "n": "4",
+          "title": "Contenu",
+          "body": "Les informations qu'un client cherche sont-elles présentes, exactes et à jour ?"
+        },
+        {
+          "t": "point",
+          "n": "5",
+          "title": "Conversion et mesure",
+          "body": "Appels, WhatsApp, formulaires : sont-ils faciles à trouver, et mesurés ?"
+        },
+        {
+          "t": "cta",
+          "title": "Le résultat : une liste de priorités classées par impact, pas un simple score",
+          "action": "Enregistrez ce post"
+        }
+      ],
+      "caption": "Un audit utile ne se résume pas à une note sur 100.\n\nUn score automatique repère des signaux. Mais il ne sait pas ce qui compte pour votre activité : une balise manquante peut être sans importance, alors qu'un bouton d'appel invisible sur mobile coûte des clients tous les jours.\n\nC'est pour ça que nous regardons cinq axes, et que nous terminons toujours par la même chose : une liste de corrections classées par impact attendu, avec ce qui est rapide à faire et ce qui demande plus de travail.\n\nEnregistrez cette grille pour évaluer votre propre site.",
+      "hashtags": [
+        "#auditseo",
+        "#auditsiteweb",
+        "#seo",
+        "#agencewebmaroc",
+        "#pmemaroc"
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "audit-gratuit-ce-que-vous-recevez",
+      "date": "2026-12-08T13:00:00",
+      "pillar": "Méthode",
+      "format": "single",
+      "slides": [
+        {
+          "t": "grid",
+          "over": "Audit gratuit",
+          "title": "Une URL, quelques minutes, 7 familles de signaux",
+          "items": [
+            [
+              "SEO",
+              "Balises et structure"
+            ],
+            [
+              "Performance",
+              "Vitesse et stabilité"
+            ],
+            [
+              "Exploration",
+              "Indexabilité"
+            ],
+            [
+              "Données structurées",
+              "Schémas"
+            ],
+            [
+              "Mobile",
+              "Ergonomie technique"
+            ],
+            [
+              "Sécurité",
+              "HTTPS et en-têtes"
+            ],
+            [
+              "Partage",
+              "Aperçus sociaux"
+            ]
+          ],
+          "foot": "Sans compte · audit.arweb.ma"
+        }
+      ],
+      "caption": "Ce que vous obtenez concrètement avec notre audit gratuit.\n\nVous indiquez l'adresse d'une page publique. En quelques minutes, l'outil analyse sept familles de signaux techniques : SEO, performance, exploration, données structurées, mobile, sécurité et partage social. Aucun compte n'est demandé.\n\nÀ lire avec recul : c'est un premier diagnostic automatisé, pas un verdict. Il repère des points à vérifier. Un audit humain, lui, vérifie leur importance pour votre activité et les classe par priorité.\n\nLancez le test sur audit.arweb.ma (lien en bio).",
+      "hashtags": [
+        "#auditsiteweb",
+        "#auditseo",
+        "#siteweb",
+        "#agencewebmaroc",
+        "#seo"
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "audit-de-notre-propre-site",
+      "date": "2026-12-10T13:00:00",
+      "pillar": "Méthode",
+      "format": "carousel",
+      "draft": true,
+      "slides": [
+        {
+          "t": "cover",
+          "over": "Transparence",
+          "title": "Nous avons audité notre propre site. Voici ce qu'on a trouvé.",
+          "sub": "Et ce qu'on a corrigé"
+        },
+        {
+          "t": "point",
+          "n": "1",
+          "title": "Une canonique vers l'ancien domaine",
+          "body": "Après le passage de arweb.ca à arweb.ma, certaines pages désignaient encore l'ancienne adresse. Corrigé."
+        },
+        {
+          "t": "point",
+          "n": "2",
+          "title": "Des chiffres sans avertissement",
+          "body": "Nos visuels de démonstration affichaient des chiffres fictifs. Ils portent désormais la mention « Données illustratives »."
+        },
+        {
+          "t": "point",
+          "n": "3",
+          "title": "Une promesse non tenue",
+          "body": "La page de remerciement annonçait un formulaire qui n'existait pas. Texte corrigé."
+        },
+        {
+          "t": "point",
+          "n": "4",
+          "title": "Un sitemap tenu à la main",
+          "body": "Remplacé par un sitemap généré automatiquement à chaque publication."
+        },
+        {
+          "t": "point",
+          "n": "5",
+          "title": "Des pages encore à indexer",
+          "body": "Nos pages de services sont récentes. Nous suivons leur indexation dans Search Console."
+        },
+        {
+          "t": "cta",
+          "title": "Si on applique la méthode à nous-mêmes, on peut l'appliquer à votre site",
+          "action": "Audit gratuit · audit.arweb.ma"
+        }
+      ],
+      "caption": "Avant de vous demander d'auditer votre site, nous avons audité le nôtre.\n\nRésultat : plusieurs points à corriger, dont certains que nous aurions repérés en cinq minutes chez un client. Une URL canonique restée sur l'ancien domaine, des chiffres de démonstration sans mention, un sitemap tenu à la main.\n\nTout a été corrigé, sauf une chose qui demande du temps : l'indexation de nos pages les plus récentes, que nous suivons dans Search Console.\n\nAucun site n'est parfait. Ce qui compte, c'est de savoir où il en est et de corriger dans le bon ordre.",
+      "hashtags": [
+        "#auditsiteweb",
+        "#seo",
+        "#transparence",
+        "#agencewebmaroc",
+        "#searchconsole"
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "mythe-beau-site-suffit",
+      "date": "2026-12-12T11:00:00",
+      "pillar": "Méthode",
+      "format": "myth",
+      "slides": [
+        {
+          "t": "myth",
+          "myth": "« Un beau site suffit pour avoir des clients. »",
+          "reality": "Sans visibilité, personne ne le voit. Sans parcours clair, personne ne vous contacte. Il faut le design, la visibilité et la mesure, ensemble."
+        }
+      ],
+      "caption": "Un beau site, c'est nécessaire. Ce n'est pas suffisant.\n\nNous voyons régulièrement des sites soignés qui ne génèrent presque aucune demande. Le design n'est pas en cause. Le site n'apparaît simplement pas sur les recherches importantes, ou le visiteur ne trouve pas comment contacter l'entreprise.\n\nC'est pour ça que nous pensons chaque site comme un ensemble : ce que le visiteur doit comprendre, comment il vous trouve, et ce qu'on mesure une fois en ligne.\n\nPartagez à quelqu'un qui prépare la refonte de son site.",
+      "hashtags": [
+        "#siteweb",
+        "#ideerecue",
+        "#creationsiteweb",
+        "#agencewebmaroc",
+        "#pmemaroc"
+      ]
+    }
+  ]
+}

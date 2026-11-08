@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 96" role="img" aria-label="Arweb logo">
+  <g fill="#0052CC" transform="translate(0,2) scale(.82)">
+    <path d="M8 72 L34 24 L49 24 L23 72 Z"/>
+    <path d="M38 24 L54 24 L78 72 L62 72 Z"/>
+    <path d="M56 24 L72 24 L86 51 L101 24 L118 24 L87 72 L72 72 Z"/>
+  </g>
+  <text x="112" y="67" fill="#111110" font-family="Bricolage Grotesque, Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-2.4">arweb</text>
+</svg>
