@@ -5,7 +5,7 @@
     {
       "id": "01",
       "slug": "arweb-en-6-points",
-      "date": "2026-11-16T13:00:00",
+      "date": "2026-11-10T13:00:00",
       "pillar": "Méthode",
       "format": "carousel",
       "slides": [
@@ -58,12 +58,13 @@
         "#seo",
         "#pmemaroc",
         "#maroc"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "02",
       "slug": "test-du-telephone",
-      "date": "2026-11-17T13:00:00",
+      "date": "2026-11-11T13:00:00",
       "pillar": "Diagnostic",
       "format": "single",
       "slides": [
@@ -86,12 +87,13 @@
         "#pmemaroc",
         "#agencewebmaroc",
         "#conseilsweb"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "03",
       "slug": "7-signes-refonte",
-      "date": "2026-11-19T13:00:00",
+      "date": "2026-11-13T13:00:00",
       "pillar": "Diagnostic",
       "format": "carousel",
       "slides": [
@@ -156,12 +158,13 @@
         "#agencewebmaroc",
         "#pmemaroc",
         "#creationsiteweb"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "04",
       "slug": "mythe-site-termine",
-      "date": "2026-11-21T11:00:00",
+      "date": "2026-11-15T11:00:00",
       "pillar": "Diagnostic",
       "format": "myth",
       "slides": [
@@ -178,12 +181,13 @@
         "#pmemaroc",
         "#agencewebmaroc",
         "#maintenance"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "05",
       "slug": "fiche-google-6-elements",
-      "date": "2026-11-23T13:00:00",
+      "date": "2026-11-17T13:00:00",
       "pillar": "Visibilité locale",
       "format": "carousel",
       "slides": [
@@ -242,12 +246,13 @@
         "#pmemaroc",
         "#agencewebmaroc",
         "#googlemaps"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "06",
       "slug": "demander-avis-google",
-      "date": "2026-11-24T13:00:00",
+      "date": "2026-11-18T13:00:00",
       "pillar": "Visibilité locale",
       "format": "single",
       "slides": [
@@ -270,12 +275,13 @@
         "#pmemaroc",
         "#whatsappbusiness",
         "#agencewebmaroc"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "07",
       "slug": "cliniques-ce-que-cherchent-patients",
-      "date": "2026-11-26T13:00:00",
+      "date": "2026-11-20T13:00:00",
       "pillar": "Visibilité locale",
       "format": "carousel",
       "slides": [
@@ -334,12 +340,13 @@
         "#siteweb",
         "#agencewebmaroc",
         "#referencementlocal"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "08",
       "slug": "mythe-reseaux-suffisent",
-      "date": "2026-11-28T11:00:00",
+      "date": "2026-11-22T11:00:00",
       "pillar": "Visibilité locale",
       "format": "myth",
       "slides": [
@@ -356,12 +363,13 @@
         "#pmemaroc",
         "#agencewebmaroc",
         "#marketingdigital"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "09",
       "slug": "seo-sans-jargon",
-      "date": "2026-11-30T13:00:00",
+      "date": "2026-11-24T13:00:00",
       "pillar": "SEO",
       "format": "carousel",
       "slides": [
@@ -407,12 +415,13 @@
         "#agenceseomaroc",
         "#pmemaroc",
         "#siteweb"
-      ]
+      ],
+      "image_folder": "2026-11"
     },
     {
       "id": "10",
       "slug": "titre-de-page-avant-apres",
-      "date": "2026-12-01T13:00:00",
+      "date": "2026-11-25T13:00:00",
       "pillar": "SEO",
       "format": "single",
       "slides": [
@@ -438,12 +447,13 @@
         "#siteweb",
         "#agenceseomaroc",
         "#conseilsweb"
-      ]
+      ],
+      "image_folder": "2026-12"
     },
     {
       "id": "11",
       "slug": "site-absent-google",
-      "date": "2026-12-03T13:00:00",
+      "date": "2026-11-27T13:00:00",
       "pillar": "SEO",
       "format": "carousel",
       "slides": [
@@ -502,12 +512,13 @@
         "#indexation",
         "#agenceseomaroc",
         "#siteweb"
-      ]
+      ],
+      "image_folder": "2026-12"
     },
     {
       "id": "12",
       "slug": "mythe-mots-cles-partout",
-      "date": "2026-12-05T11:00:00",
+      "date": "2026-11-29T11:00:00",
       "pillar": "SEO",
       "format": "myth",
       "slides": [
@@ -524,12 +535,13 @@
         "#redactionweb",
         "#agenceseomaroc",
         "#pmemaroc"
-      ]
+      ],
+      "image_folder": "2026-12"
     },
     {
       "id": "13",
       "slug": "notre-grille-audit-5-axes",
-      "date": "2026-12-07T13:00:00",
+      "date": "2026-12-01T13:00:00",
       "pillar": "Méthode",
       "format": "carousel",
       "slides": [
@@ -582,12 +594,13 @@
         "#seo",
         "#agencewebmaroc",
         "#pmemaroc"
-      ]
+      ],
+      "image_folder": "2026-12"
     },
     {
       "id": "14",
       "slug": "audit-gratuit-ce-que-vous-recevez",
-      "date": "2026-12-08T13:00:00",
+      "date": "2026-12-02T13:00:00",
       "pillar": "Méthode",
       "format": "single",
       "slides": [
@@ -635,12 +648,13 @@
         "#siteweb",
         "#agencewebmaroc",
         "#seo"
-      ]
+      ],
+      "image_folder": "2026-12"
     },
     {
       "id": "15",
       "slug": "audit-de-notre-propre-site",
-      "date": "2026-12-10T13:00:00",
+      "date": "2026-12-04T13:00:00",
       "pillar": "Méthode",
       "format": "carousel",
       "draft": true,
@@ -694,12 +708,13 @@
         "#transparence",
         "#agencewebmaroc",
         "#searchconsole"
-      ]
+      ],
+      "image_folder": "2026-12"
     },
     {
       "id": "16",
       "slug": "mythe-beau-site-suffit",
-      "date": "2026-12-12T11:00:00",
+      "date": "2026-12-06T11:00:00",
       "pillar": "Méthode",
       "format": "myth",
       "slides": [
@@ -716,7 +731,8 @@
         "#creationsiteweb",
         "#agencewebmaroc",
         "#pmemaroc"
-      ]
+      ],
+      "image_folder": "2026-12"
     }
   ]
 }
